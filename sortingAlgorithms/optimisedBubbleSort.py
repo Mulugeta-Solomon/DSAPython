@@ -9,4 +9,3 @@ def optimiseBubbleSort(l):
             return 
 l = [5, 8, 9, 2, 6, 7, 6, 2, 7, 10, 100]
 optimiseBubbleSort(l)
-l 

@@ -6,4 +6,4 @@ def bubbleSort(l):
 
 l = [5, 8, 9, 2, 6, 7, 6, 2, 7, 10, 100]
 bubbleSort(l)
-l
+

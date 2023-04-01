@@ -25,3 +25,7 @@ def naiveMerge(l1,l2):
     
     return merged
 
+
+l2 = [2, 2, 5, 6, 6, 7, 7]
+l1 = [1, 3, 4]
+naiveMerge(l1,l2)
